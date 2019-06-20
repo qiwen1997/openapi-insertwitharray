@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="gbk"?>
+<business id="FPKJ" comment="发票开具">
+    <REQUEST_COMMON_FPKJ class="REQUEST_COMMON_FPKJ">
+        <COMMON_FPKJ_FPT class="COMMON_FPKJ_FPT">
+            <FPQQLSH>123123123123</FPQQLSH>
+            <KPLX>0</KPLX>
+            <BMB_BBH></BMB_BBH>
+            <ZSFS>0</ZSFS>
+            <TSPZ></TSPZ>
+            <XSF_NSRSBH>440300074352025</XSF_NSRSBH>
+            <XSF_MC>顺丰速运有限公司</XSF_MC>
+            <XSF_DZDH>销售方地址、电话</XSF_DZDH>
+            <XSF_YHZH>销售方银行账号</XSF_YHZH>
+            <GMF_NSRSBH>199291919929111</GMF_NSRSBH>
+            <GMF_MC>购买方名称</GMF_MC>
+            <GMF_DZDH>购买方地址、电话</GMF_DZDH>
+            <GMF_YHZH>购买方银行账号</GMF_YHZH>
+            <KPR>开票人</KPR>
+            <SKR>收款人</SKR>
+            <FHR>复核人</FHR>
+            <YFP_DM></YFP_DM>
+            <YFP_HM></YFP_HM>
+            <JSHJ>110.00</JSHJ>
+            <HJJE>100.00</HJJE>
+            <HJSE>10.00</HJSE>
+            <KCE></KCE>
+            <BZ></BZ>
+        </COMMON_FPKJ_FPT>
+        <COMMON_FPKJ_XMXXS class="COMMON_FPKJ_XMXX" size="1">
+            <COMMON_FPKJ_XMXX>
+                <FPHXZ>0</FPHXZ>
+                <SPBM>1010101010000000000</SPBM>
+                <ZXBM></ZXBM>
+                <YHZCBS></YHZCBS>
+                <LSLBS></LSLBS>
+                <ZZSTSGL></ZZSTSGL>
+                <XMMC>稻谷</XMMC>
+                <GGXH></GGXH>
+                <DW></DW>
+                <XMSL></XMSL>
+                <XMDJ></XMDJ>
+                <XMJE>100.00</XMJE>
+                <SL>0.10</SL>
+                <SE>10.00</SE>
+            </COMMON_FPKJ_XMXX>
+        </COMMON_FPKJ_XMXXS>
+    </REQUEST_COMMON_FPKJ>
+</business>
